@@ -9,9 +9,9 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 
 ## Checkpoints aulas
 
-1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-9c82404fd5c04361aedae97885f2db84)
-2. [Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-9b0ef055024440409ee16f387aea7b1b)
-3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-74a6a7789ddf478e92ed2cf0ebb9cb37)
+1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-HTML-603966060b18408b9a94e08029552dbc)
+2. [Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-CSS-25ff90c91bbf469f992d4eb78676b22e)
+3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-JS-1daf0ac2fccf43fb9da86579ec013ecf)
 
 ## O projeto
 
@@ -44,6 +44,10 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 
 - [Layout Mulheres em Tech => Desenvolvendo plataforma de vagas](https://www.figma.com/file/ivCfSG5ElZUqz5KLv2fmhn/Evento----Mulheres-em-Tech?node-id=39%3A135)
 
+## LinkedIn das Instrutoras
+- [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
+- [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
+
 ## Referências
 
 - [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp)
@@ -53,4 +57,4 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 - [Paletton](https://paletton.com/)
 - [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp)
 - [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
-- [CSS BEM](https://desenvolvimentoparaweb.com/css/bem/)
+

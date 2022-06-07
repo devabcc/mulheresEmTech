@@ -42,7 +42,7 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 
 ## Layout
 
-- [Layout Mulheres em Tech => Desenvolvendo plataforma de vagas](./img/layout.png)
+- [Layout Mulheres em Tech => Desenvolvendo plataforma de vagas](https://www.figma.com/file/ivCfSG5ElZUqz5KLv2fmhn/Evento----Mulheres-em-Tech?node-id=39%3A135)
 
 ## Referências
 
